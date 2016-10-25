@@ -105,8 +105,6 @@ Requirements
   * Virtualbox (>= 4.3.26)(https://www.virtualbox.org/wiki/Downloads)
   * VMware Workstaion (>= 10)(https://www.vmware.com/go/downloadworkstation)
 * Vagrant VMware plugin if you're using vmware (http://www.vagrantup.com/vmware)
-* Virtualbox iso plugin
-  * $vagrant plugin install virtualbox-iso
 
 Build Vagrant Base Box
 ----------------------
