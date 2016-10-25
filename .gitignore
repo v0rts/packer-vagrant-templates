@@ -1,0 +1,9 @@
+packer_cache/
+output-virtualbox-iso/
+*.swp
+*.box
+*.vmdk
+*.iso
+.vagrant/
+test-stamp
+build-stamp
