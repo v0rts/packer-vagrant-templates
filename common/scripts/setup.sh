@@ -16,7 +16,7 @@ baseurl=http://vault.centos.org
 case "${releasever}" in
   # latest version
   5.11 | 6.7 | 7.1.1503 )
-    baseurl=http://ftp.jaist.ac.jp/pub/Linux/CentOS
+    baseurl=http://mirror.symnds.com/distributions/CentOS-vault
     ;;
 esac
 
