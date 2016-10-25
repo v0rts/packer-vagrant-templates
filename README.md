@@ -165,7 +165,7 @@ project/
 License
 -------
 
-Inspriece by hansode ([https://github.com/hansode/packer-vagrant-templates](https://github.com/hansode/packer-vagrant-templates)).
+Inspired by hansode ([https://github.com/hansode/packer-vagrant-templates](https://github.com/hansode/packer-vagrant-templates)).
 
 [Beerware](http://en.wikipedia.org/wiki/Beerware) license.
 
