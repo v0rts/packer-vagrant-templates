@@ -12,47 +12,18 @@ Current Boxes
 + [v0rts/centos-7.0.1406-x86_64](https://vagrantcloud.com/v0rts/centos-7.0.1406-x86_64)
 + [v0rts/centos-6.6-x86_64](https://vagrantcloud.com/v0rts/centos-6.6-x86_64)
 + [v0rts/centos-6.5-x86_64](https://vagrantcloud.com/v0rts/centos-6.5-x86_64)
-+ [v0rts/centos-6.4-x86_64](https://vagrantcloud.com/v0rts/centos-6.4-x86_64)
-+ [v0rts/centos-6.3-x86_64](https://vagrantcloud.com/v0rts/centos-6.3-x86_64)
-+ [v0rts/centos-6.2-x86_64](https://vagrantcloud.com/v0rts/centos-6.2-x86_64)
-+ [v0rts/centos-6.1-x86_64](https://vagrantcloud.com/v0rts/centos-6.1-x86_64)
-+ [v0rts/centos-6.0-x86_64](https://vagrantcloud.com/v0rts/centos-6.0-x86_64)
 + [v0rts/centos-5.11-x86_64](https://vagrantcloud.com/v0rts/centos-5.11-x86_64)
 + [v0rts/centos-5.10-x86_64](https://vagrantcloud.com/v0rts/centos-5.10-x86_64)
-+ [v0rts/centos-5.9-x86_64](https://vagrantcloud.com/v0rts/centos-5.9-x86_64)
-+ [v0rts/centos-5.8-x86_64](https://vagrantcloud.com/v0rts/centos-5.8-x86_64)
-+ [v0rts/centos-5.7-x86_64](https://vagrantcloud.com/v0rts/centos-5.7-x86_64)
-+ [v0rts/centos-5.6-x86_64](https://vagrantcloud.com/v0rts/centos-5.6-x86_64)
-+ [v0rts/centos-5.5-x86_64](https://vagrantcloud.com/v0rts/centos-5.5-x86_64)
-+ [v0rts/centos-5.4-x86_64](https://vagrantcloud.com/v0rts/centos-5.4-x86_64)
-+ [v0rts/centos-5.3-x86_64](https://vagrantcloud.com/v0rts/centos-5.3-x86_64)
-+ [v0rts/centos-5.2-x86_64](https://vagrantcloud.com/v0rts/centos-5.2-x86_64)
++ [v0rts/fedora-24-server-x86_64](https://vagrantcloud.com/v0rts/boxes/fedora-24-server-x86_64)
 + [v0rts/fedora-22-server-x86_64](https://vagrantcloud.com/v0rts/boxes/fedora-22-server-x86_64)
-+ [v0rts/fedora-21-server-x86_64](https://vagrantcloud.com/v0rts/boxes/fedora-21-server-x86_64)
-+ [v0rts/fedora-20-x86_64](https://vagrantcloud.com/v0rts/boxes/fedora-20-x86_64)
 
 32-bit boxes:
 
 + [v0rts/centos-6.6-i386](https://vagrantcloud.com/v0rts/centos-6.6-i386)
 + [v0rts/centos-6.5-i386](https://vagrantcloud.com/v0rts/centos-6.5-i386)
-+ [v0rts/centos-6.4-i386](https://vagrantcloud.com/v0rts/centos-6.4-i386)
-+ [v0rts/centos-6.3-i386](https://vagrantcloud.com/v0rts/centos-6.3-i386)
-+ [v0rts/centos-6.2-i386](https://vagrantcloud.com/v0rts/centos-6.2-i386)
-+ [v0rts/centos-6.1-i386](https://vagrantcloud.com/v0rts/centos-6.1-i386)
-+ [v0rts/centos-6.0-i386](https://vagrantcloud.com/v0rts/centos-6.0-i386)
 + [v0rts/centos-5.11-i386](https://vagrantcloud.com/v0rts/centos-5.11-i386)
 + [v0rts/centos-5.10-i386](https://vagrantcloud.com/v0rts/centos-5.10-i386)
-+ [v0rts/centos-5.9-i386](https://vagrantcloud.com/v0rts/centos-5.9-i386)
-+ [v0rts/centos-5.8-i386](https://vagrantcloud.com/v0rts/centos-5.8-i386)
-+ [v0rts/centos-5.7-i386](https://vagrantcloud.com/v0rts/centos-5.7-i386)
-+ [v0rts/centos-5.6-i386](https://vagrantcloud.com/v0rts/centos-5.6-i386)
-+ [v0rts/centos-5.5-i386](https://vagrantcloud.com/v0rts/centos-5.5-i386)
-+ [v0rts/centos-5.4-i386](https://vagrantcloud.com/v0rts/centos-5.4-i386)
-+ [v0rts/centos-5.3-i386](https://vagrantcloud.com/v0rts/centos-5.3-i386)
-+ [v0rts/centos-5.2-i386](https://vagrantcloud.com/v0rts/centos-5.2-i386)
 + [v0rts/fedora-22-server-i386](https://vagrantcloud.com/v0rts/boxes/fedora-22-server-i386)
-+ [v0rts/fedora-21-server-i386](https://vagrantcloud.com/v0rts/boxes/fedora-21-server-i386)
-+ [v0rts/fedora-20-i386](https://vagrantcloud.com/v0rts/boxes/fedora-20-i386)
 
 Installed Packages
 ------------------
@@ -165,6 +136,7 @@ project/
 License
 -------
 
+Modified and Maintained by v0rts
 Inspired by hansode ([https://github.com/hansode/packer-vagrant-templates](https://github.com/hansode/packer-vagrant-templates)).
 
 [Beerware](http://en.wikipedia.org/wiki/Beerware) license.
